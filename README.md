@@ -1,3 +1,6 @@
+# Se agrega diagrama con la solucion del ejercicio
+
+
 # GuasappMessenger
 
 Simulador de una herramienta de mensajería dicho módulo tiene una vulvernabilidad, ya que en el momento que un usuario incluya el 
