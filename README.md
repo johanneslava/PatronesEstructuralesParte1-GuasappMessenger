@@ -1,5 +1,5 @@
 # Se agrega diagrama con la solucion del ejercicio
-
+![image](https://github.com/johanneslava/PatronesEstructuralesParte1-GuasappMessenger/blob/master/estructurales-guasapp.png)
 
 # GuasappMessenger
 
